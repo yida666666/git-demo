@@ -12,5 +12,9 @@ hello yida!
 hello yida!
 hello yida!
 hello yida!
+<<<<<<< HEAD
 hello yida! master test
+======o yida!
+>>>>>>> hot-fix
 hello yida!
+hello yida!hot-fix test2
